@@ -1,5 +1,5 @@
 {
-  "name": "PracticingGit",
+  "name": "PracticingGit1",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
@@ -46,7 +46,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "a19693d4-3d0b-4030-8e89-f48cec7e47e9",
+      "uniqueId": "9f3563b9-3f60-44d4-83f4-6c9831eeb464",
       "input": [],
       "output": []
     }
